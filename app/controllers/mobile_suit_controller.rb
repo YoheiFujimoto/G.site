@@ -1,0 +1,2 @@
+class MobileSuitController < ApplicationController
+end
